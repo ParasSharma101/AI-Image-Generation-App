@@ -23,11 +23,11 @@ To run this project, you will need to add the following environment variables to
 * `VITE_SERVER_URL` your backend url
 
 **Server:**
-* `MONGODB_URL` Your mongo db url
-* `OPENAI_API_KEY` your OPENAI_API_KEY 
-* `CLOUDINARY_CLOUD_NAME` your cloudinary name
-* `CLOUDINARY_API_KEY` your cloudinary api key 
-* `CLOUDINARY_API_SECRET` your cloudinary api api secret 
+* `MONGODB_URL` mongo db url
+* `OPENAI_API_KEY`  OPENAI_API_KEY 
+* `CLOUDINARY_CLOUD_NAME` cloudinary name
+* `CLOUDINARY_API_KEY` cloudinary api key 
+* `CLOUDINARY_API_SECRET` cloudinary api api secret 
 
 ## Run Locally
 
